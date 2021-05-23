@@ -1,9 +1,0 @@
-C:/working_folder/mux_1bit.v {1 {vlog -work work -stats=none C:/working_folder/mux_1bit.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module mux_1bit
--- Compiling module test_mux_1bit
-
-Top level modules:
-	test_mux_1bit
-
-} {} {}}
